@@ -25,7 +25,7 @@ Can manage menu items, view and process orders, and handle reservations.
 
 ## 📺 Demo
 
-👉 [Savorly Restaurant Demo](https://youtu.be/e2kw68T8FDI?si=lbiYDRiRXbWy8zKZ)
+👉 [Savorly Restaurant Demo](https://youtu.be/qkObzXKYE5U?si=X1-iY0xWvVLvvhAL)
 
 ---
 
