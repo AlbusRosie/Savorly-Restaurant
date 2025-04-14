@@ -90,6 +90,6 @@ Open the app at http://localhost:5173
 
 ## 📬 Contact
 
-For feedback or questions, please reach out via GitHub or Gmail.
+If you have any questions or feedback, feel free to reach out via [GitHub](https://github.com/AlbusRosie).
 
 > ✨ *This project is for educational purposes only.*
