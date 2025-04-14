@@ -23,6 +23,12 @@ Can manage menu items, view and process orders, and handle reservations.
 
 ---
 
+## 📺 Demo
+
+👉 [Savorly Restaurant Demo](https://youtu.be/e2kw68T8FDI?si=lbiYDRiRXbWy8zKZ)
+
+---
+
 ## 💻 Key Features
 
 - 🧾 **Food Ordering:** browse menu, add to cart, place orders.
