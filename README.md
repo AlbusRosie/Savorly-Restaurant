@@ -1,12 +1,15 @@
-# CT313H: WEB TECHNOLOGIES AND SERVICES
-> A modern, responsive, and user-friendly website for online food ordering and table reservations.
-## Project Name: Savorly - Restaurant Ordering & Reservation Website
+# 🍽️ CT313H: Web Technologies and Services
 
-Semester 1, Academic year: 2024-2025
+> A modern, responsive, and user-friendly platform for **online food ordering** and **table reservations**.
 
-**Student Name 1**: Nguyễn Thị Hoài Thương
+## 📌 **Savorly** – Restaurant Ordering & Reservation Website
 
-**Student Name 2**: Ngô Thụy Thanh Tâm
+**Semester**: 1  
+**Academic Year**: 2024–2025  
+
+### 👩‍🎓 Contributor:
+- **Nguyễn Thị Hoài Thương** – Developed and managed the admin-side functionality.
+- **Ngô Thụy Thanh Tâm** – Responsible for the user interface and front-end logic.
 
 **Class Number**: M03
 
